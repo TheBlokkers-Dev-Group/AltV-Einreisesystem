@@ -1,3 +1,3 @@
 # FiveM-Einreisesystem
 
-# Einreisesystem is a system for my FiveM-Server.
+Einreisesystem is a system for my FiveM-Server.
